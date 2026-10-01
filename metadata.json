@@ -1,0 +1,6 @@
+{
+  "name": "FocusAI - Study Plan & Focus Timer",
+  "description": "Smart study timetable generator, 25-minute Pomodoro focus timer, phone distraction reminders, and progress tracking for college students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
